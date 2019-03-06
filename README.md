@@ -1,2 +1,2 @@
-# moveit-plugin
-Mainly used for staubli tx90
+# rviz_lrobot_commander
+A RViz plugin example for tx90

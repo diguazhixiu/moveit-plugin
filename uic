@@ -1,0 +1,1 @@
+uic tabwidget.ui -o ui_tabwidget.h

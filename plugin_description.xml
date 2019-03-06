@@ -1,0 +1,9 @@
+<library path="lib/librviz_lrobot_commander">
+  <class name="rviz_lrobot_commander/LROBOT"
+         type="rviz_lrobot_commander::LROBOT"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget for staubli tx90
+    </description>
+  </class>
+</library>
